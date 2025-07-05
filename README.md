@@ -6,12 +6,12 @@
 <br/>
 
 <h1 align="center">Hi, I'm Shifat 👋</h1>
-<p align="center"><strong>A passionate web developer learning at Programming Hero 🇧🇩</strong></p>
+<p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
 
 ---
 
 ### 🔭 Currently Working On
-- Building responsive web interfaces with HTML, CSS & JavaScript  
+- Building responsive web interfaces with HTML, CSS, and JavaScript  
 - Learning full-stack tools like React, Node.js, Express & MongoDB  
 - Real-world projects and version control with Git & GitHub  
 
@@ -21,17 +21,6 @@
 - API integration, component-based development & deployment  
 - Front-end performance optimization  
 - UI/UX design principles and accessibility  
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:hossainshifat222@gmail.com"><img src="https://img.shields.io/badge/Gmail-hossainshifat222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/hossainshifat.info"><img src="https://img.shields.io/badge/Facebook-hossainshifat.info-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hossainshifat.info"><img src="https://img.shields.io/badge/Instagram-hossainshifat.info-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/hossainshifat0"><img src="https://img.shields.io/badge/X-hossainshifat0-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -49,15 +38,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats
 
-<div align="center" gap="10px">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&border_radius=10&count_private=true" height="180"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true&border_radius=10" height="180"/></td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&border_radius=10&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true&border_radius=10" height="180"/>
 </div>
 
 ---
@@ -70,11 +55,32 @@
 
 ---
 
+### 📬 Let's Connect
+
+<p align="center" style="background: linear-gradient(90deg, #ff9966, #ff5e62); padding: 20px; border-radius: 12px;">
+  <a href="mailto:hossainshifat222@gmail.com" title="Email" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="Email" width="30"/>
+  </a>
+  <a href="https://facebook.com/hossainshifat.info" title="Facebook" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30"/>
+  </a>
+  <a href="https://instagram.com/hossainshifat.info" title="Instagram" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30"/>
+  </a>
+  <a href="https://x.com/hossainshifat0" title="X" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="30"/>
+  </a>
+</p>
+
+---
+
 ### 🧠 About Me
 
-> I’m a curious, hardworking, and creative developer who loves building real-world projects, learning new tools, and turning ideas into clean, functional code.
+> I’m a curious, hardworking, and creative developer who loves transforming ideas into real-world projects, continuously learning, and striving for clean, functional code.
 
 ---
 
 <div align="center">
-  <strong>💻 L
+  <strong>💻 Let's build something great — one line at a time.</strong>
+</div>
+
