@@ -85,11 +85,17 @@
   </table>
 </div>
 
-<!-- Top Languages Card -->
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" width="100%" />
-</p>
+
+<!-- Top Languages Card (Responsive + Clean) -->
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" 
+    alt="Top Languages"
+    style="width: 100%; height: auto; border-radius: 10px;"
+  />
+</div>
+
 
 ---
 
