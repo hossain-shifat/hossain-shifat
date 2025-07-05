@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ### 📫 Connect With ME
 
 <div align="center">
@@ -100,16 +98,6 @@
 
 ---
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&custom_title=Weekly%20Development%20Breakdown&range=last_7_days"
-    width="600"
-    alt="WakaTime stats"
-  />
-</p>
-
----
 
 ### 🧠 About Me
 
