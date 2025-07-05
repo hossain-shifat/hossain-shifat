@@ -72,22 +72,18 @@
 </p>
 
 <!-- GitHub Stats Table -->
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
       <td>
         <img 
           src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&count_private=true" 
-          height="180"
-          alt="GitHub Stats"
-        />
+          height="180" />
       </td>
       <td>
         <img 
           src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true" 
-          height="180"
-          alt="GitHub Streak"
-        />
+          height="180" />
       </td>
     </tr>
   </table>
