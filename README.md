@@ -24,16 +24,31 @@
 
 ---
 
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:hossainshifat222@gmail.com"><img src="https://img.shields.io/badge/Gmail-hossainshifat222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/hossainshifat.info"><img src="https://img.shields.io/badge/Facebook-hossainshifat.info-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hossainshifat.info"><img src="https://img.shields.io/badge/Instagram-hossainshifat.info-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/hossainshifat0"><img src="https://img.shields.io/badge/X-hossainshifat0-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
 ---
+
+### 📫 Connect With ME
+
+<div align="center">
+  <table style="border: none; font-size: 16px;">
+    <tr>
+      <td><strong>Email:</strong></td>
+      <td><a href="mailto:hossainshifat222@gmail.com">hossainshifat222@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td><strong>Facebook:</strong></td>
+      <td><a href="https://facebook.com/hossainshifat.info">facebook.com/hossainshifat.info</a></td>
+    </tr>
+    <tr>
+      <td><strong>Instagram:</strong></td>
+      <td><a href="https://instagram.com/hossainshifat.info">instagram.com/hossainshifat.info</a></td>
+    </tr>
+    <tr>
+      <td><strong>X (Twitter):</strong></td>
+      <td><a href="https://x.com/hossainshifat0">x.com/hossainshifat0</a></td>
+    </tr>
+  </table>
+</div>
+
 
 ### 🛠️ Tech Stack
 
