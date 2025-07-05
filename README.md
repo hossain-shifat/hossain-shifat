@@ -88,8 +88,9 @@
 <!-- Top Languages Card -->
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" width="100%" />
 </p>
+
 ---
 
 ### 🧠 About Me
