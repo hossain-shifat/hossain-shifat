@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/514400538_122214196946123697_6466602669384712912_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEpLq2897E_RIIGWTMC1RScy-2VJN3_2lDL7ZUk3f_aUG1pTRRtmYmbqXiClEthpQhePtqob8bcSr_AX9YZMmYR&_nc_ohc=KRJ02HflBqIQ7kNvwExokt7&_nc_oc=AdkM1wBh2e0uIUha6mVLD9hMKhfGannSUGldmupGK0jyhWmeSkAeeigHjuNu3MS04mw&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&_nc_gid=b2QrgSBS1HdXv4WE9IG3bw&oh=00_AfSDqiI3n_XQVbCY-WkfQ3hei7HMB1ecIs9158d5LFVb0g&oe=686EE5D1" width="200px" style="border-radius: 50%;" alt="Shifat's Profile Picture"/>
+  <img src="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/514400538_122214196946123697_6466602669384712912_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEpLq2897E_RIIGWTMC1RScy-2VJN3_2lDL7ZUk3f_aUG1pTRRtmYmbqXiClEthpQhePtqob8bcSr_AX9YZMmYR&_nc_ohc=KRJ02HflBqIQ7kNvwExokt7&_nc_oc=AdkM1wBh2e0uIUha6mVLD9hMKhfGannSUGldmupGK0jyhWmeSkAeeigHjuNu3MS04mw&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&_nc_gid=b2QrgSBS1HdXv4WE9IG3bw&oh=00_AfSDqiI3n_XQVbCY-WkfQ3hei7HMB1ecIs9158d5LFVb0g&oe=686EE5D1" width="100%" style="border-radius: none;" alt="Shifat's Profile Picture"/>
   
   <h1>Hi, I'm Shifat 👋</h1>
   <p><strong>A passionate web developer learning at Programming Hero 🇧🇩</strong></p>
