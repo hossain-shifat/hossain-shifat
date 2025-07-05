@@ -72,7 +72,7 @@
 </p>
 
 <!-- GitHub Stats Table -->
-<div align="center">
+<div align="center" style="border="none"" >
   <table style="border: none; margin-top: 30px;">
     <tr>
       <td>
