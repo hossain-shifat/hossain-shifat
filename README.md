@@ -51,7 +51,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="center" gap="10px">
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&border_radius=10&count_private=true" height="180"/></td>
