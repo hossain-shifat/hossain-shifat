@@ -64,25 +64,32 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Current Stats
 
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifat-hossain&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<!-- GitHub Stats Table -->
 <div align="center">
-  <table>
+  <table style="border: none; margin-top: 30px;">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&border_radius=10&count_private=true" height="180"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true&border_radius=10" height="180"/></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&border_radius=10&count_private=true" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true&border_radius=10" height="180" />
+      </td>
     </tr>
   </table>
 </div>
 
----
-
-### 📊 Contribution Graph
-
+<!-- Top Languages Card -->
+<br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifat-hossain&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" />
 </p>
-
 ---
 
 ### 🧠 About Me
