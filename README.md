@@ -10,19 +10,50 @@
 
 ---
 
-### 🔭 Currently Working On
-- Building responsive web interfaces with HTML, CSS & JavaScript  
-- Learning full-stack tools like React, Node.js, Express & MongoDB  
-- Real-world projects and version control with Git & GitHub  
+- 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
+
+- 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
+
+- 💬 Ask me about **Tech & Coding problems**
+
+- 📫 How to reach me **hossainshifat222@gmail.com**
+
+- ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.** 
 
 ---
 
-### 🌱 Currently Learning
-- API integration, component-based development & deployment  
-- Front-end performance optimization  
-- UI/UX design principles and accessibility  
+<!--Languages and Tools Section-->       
+<h2 align="center">💡 Exploring Tools & Technologies</h2> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/tuqH936wSKUPChxr6m/giphy.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://media3.giphy.com/media/tuqH936wSKUPChxr6m/giphy.gif">
+  <img align="left" alt="Tech Stack Animation" src="https://media3.giphy.com/media/tuqH936wSKUPChxr6m/giphy.gif" width="350">
+</picture>
+
+
+  <div>
+    <h3>Current Learning</h3>
+    <ul>
+        <li>Deepening my skills in modern Web Development with Programming-Hero.</li>
+        <li>Mastering state management solutions such as Redux and Context API.</li>
+        <li></li>
+    </ul>
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ---
+
 
 ### 📫 Connect With ME
 
@@ -95,6 +126,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" />
 </p>
+
+
 
 ---
 
