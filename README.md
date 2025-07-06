@@ -6,7 +6,7 @@
 <br/>
 
 <h1 align="center">Hi, I'm Shifat 👋</h1>
-<p align="center"><strong>A passionate web developer learning at Programming Hero 🇧🇩</strong></p>
+<p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
 
 ---
 
@@ -66,7 +66,7 @@
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossain-Shifat's&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat's&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <!-- GitHub Stats Table -->
@@ -75,12 +75,12 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=shifat-hossain&show_icons=true&theme=radical&hide_title=false&hide_border=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=radical&hide_title=false&hide_border=true&count_private=true" 
           height="180" />
       </td>
       <td>
         <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=shifat-hossain&theme=radical&hide_border=true" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&theme=radical&hide_border=true" 
           height="180" />
       </td>
     </tr>
