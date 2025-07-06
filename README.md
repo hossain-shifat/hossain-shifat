@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
 
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
