@@ -5,9 +5,7 @@
 
 <br/>
 
-<h1 align="center">Hi, I'm Shifat 👋</h1>
-<p align="center"><strong>A passionate web developer learning at Programming Hero 🇧🇩</strong></p>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Hossain-Shifat
 ---
 
 ### 🔭 Currently Working On
@@ -66,7 +64,7 @@
 
 <!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shifat-hossain&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossain-Shifat's&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <!-- GitHub Stats Table -->
