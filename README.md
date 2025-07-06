@@ -5,7 +5,8 @@
 
 <br/>
 
-<h1>👋Hi, I'm Hossain-Shifat</h1>
+<h1 align="center">Hi, I'm Shifat 👋</h1>
+<p align="center"><strong>A passionate web developer learning at Programming Hero 🇧🇩</strong></p>
 
 ---
 
