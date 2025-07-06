@@ -10,7 +10,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFqd25oZ3lmdGVhMzBndTRucXA4cGpvMzh2eTB2MmM4dXd0cXlteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9XHOlBFLtlY69AtwOi/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 
@@ -22,9 +23,6 @@
 
 - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.** 
 
-
-<br>
-<br>
 
 ---
 
