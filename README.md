@@ -120,19 +120,26 @@
 
 ---
 
+<!--
+  Top Language caed
+-->
 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
+  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
+  <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
+
+<br/>
+
+<!--
+  Top Language card end
+-->
 
 ---
 
+<!--Profile Summary-->
 
-
-<!---exp---->
-<br/>
-<br/>
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
@@ -142,23 +149,25 @@
 </p>
 
 
-
-
-
-
-<!---end---->
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!--Profile Summary end-->
 
 ---
+
+### ⚡Activity Graph
+
+<!--Graph Start-->
+
+
+<!-- GitHub Contribution Graph -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+
+
+<!--Graph End-->
+
 
 
 ### 🧠 About Me
