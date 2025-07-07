@@ -1,6 +1,7 @@
 <!-- 🖼️ Profile Banner -->
 <div align="center">
-  <img src="https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/514400538_122214196946123697_6466602669384712912_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEpLq2897E_RIIGWTMC1RScy-2VJN3_2lDL7ZUk3f_aUG1pTRRtmYmbqXiClEthpQhePtqob8bcSr_AX9YZMmYR&_nc_ohc=KRJ02HflBqIQ7kNvwExokt7&_nc_oc=AdkM1wBh2e0uIUha6mVLD9hMKhfGannSUGldmupGK0jyhWmeSkAeeigHjuNu3MS04mw&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&_nc_gid=b2QrgSBS1HdXv4WE9IG3bw&oh=00_AfSDqiI3n_XQVbCY-WkfQ3hei7HMB1ecIs9158d5LFVb0g&oe=686EE5D1" width="100%" alt="Banner" />
+  <img src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/516747281_122214473882123697_8617946742492310951_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE314Q5DRn7wCcoTXfUxNWkINsYuqmLf3Ug2xi6qYt_dZfqKGjwm2xrrR-qXtpsl2ShpcjXzCJrZLyxfnuwXWvk&_nc_ohc=AHeCg0cp-yoQ7kNvwH_3YIc&_nc_oc=AdmPVHBUFzC8qK8Yh1cu6KLQ2dPFpxNEXFZpEVHqx5gpjZ308wYXp_eMTpdVNKWlbKw&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=HCqlDJNf9qVr9MIgDNJJ_g&oh=00_AfRAk6M_BxbZYYx8uWIyPwrrIwiIlmxshpGtv56PeHBmqA&oe=68717709" width="100%" alt="Banner" />
+
 </div>
 
 <br/>
