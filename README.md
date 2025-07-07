@@ -97,14 +97,9 @@
 
 ### 📊 Current Stats
 
-<!-- GitHub Contribution Graph -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
-</p>
-
 
 <!-- GitHub Stats and Streak Section -->
+<br/>
 
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
@@ -123,23 +118,21 @@
   </table>
 </div>
 
-<br/>
-
-<!-- Top Languages Card -->
-
-<br/>
+---
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-shifat&layout=donut&theme=react-dark&bg_color=0d1117&title_color=61dafb&text_color=ffffff&border_color=30363d"
-    alt="Top Languages Donut Chart"
-  />
-</p>
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
+</div>
+
+---
+
+
 
 <!---exp---->
-
-
+<br/>
+<br/>
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
@@ -147,12 +140,6 @@
     style="width: 100%; max-width: 600px;" 
   />
 </p>
-
-
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
-</div>
 
 
 
