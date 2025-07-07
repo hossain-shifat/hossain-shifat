@@ -6,6 +6,9 @@
 
 <br/>
 
+
+
+
 <h1 align="center">Hi, I'm Shifat 👋</h1>
 <p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
 
@@ -47,14 +50,8 @@
   </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<br/><br/><br/><br/><br/><br/>
 
 
 ---
@@ -101,9 +98,13 @@
 ### 📊 Current Stats
 
 <!-- GitHub Contribution Graph -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
+
+
+<!-- GitHub Stats and Streak Section -->
 
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
@@ -125,13 +126,23 @@
 <br/>
 
 <!-- Top Languages Card -->
+
 <br/>
+
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-shifat&layout=compact&langs_count=8&bg_color=0d1117&title_color=61dafb&text_color=ffffff&border_color=30363d" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-shifat&layout=donut&theme=react-dark&bg_color=0d1117&title_color=61dafb&text_color=ffffff&border_color=30363d"
+    alt="Top Languages Donut Chart"
   />
 </p>
 
+<!---exp---->
+
+
+
+
+<!---end---->
 
 
 
