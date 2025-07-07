@@ -104,32 +104,34 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-<!-- GitHub Stats Table -->
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=radical&hide_title=false&hide_border=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb" 
           height="180" />
       </td>
       <td>
         <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&theme=radical&hide_border=true" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb" 
           height="180" />
       </td>
     </tr>
   </table>
 </div>
 
-
 <br/>
 
 <!-- Top Languages Card -->
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-hossain&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-shifat&layout=compact&langs_count=8&bg_color=0d1117&title_color=61dafb&text_color=ffffff&border_color=30363d" 
+  />
 </p>
+
+
 
 
 
