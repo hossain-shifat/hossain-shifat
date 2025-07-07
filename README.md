@@ -140,6 +140,15 @@
 <!---exp---->
 
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
+    alt="GitHub Summary Card"
+    style="width: 90%; max-width: 600px;" 
+  />
+</p>
+
+
 
 
 <!---end---->
