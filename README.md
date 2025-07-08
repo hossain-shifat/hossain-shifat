@@ -1,13 +1,9 @@
 <!-- 🖼️ Profile Banner -->
 <div align="center">
   <img src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/516747281_122214473882123697_8617946742492310951_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE314Q5DRn7wCcoTXfUxNWkINsYuqmLf3Ug2xi6qYt_dZfqKGjwm2xrrR-qXtpsl2ShpcjXzCJrZLyxfnuwXWvk&_nc_ohc=AHeCg0cp-yoQ7kNvwH_3YIc&_nc_oc=AdmPVHBUFzC8qK8Yh1cu6KLQ2dPFpxNEXFZpEVHqx5gpjZ308wYXp_eMTpdVNKWlbKw&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=HCqlDJNf9qVr9MIgDNJJ_g&oh=00_AfRAk6M_BxbZYYx8uWIyPwrrIwiIlmxshpGtv56PeHBmqA&oe=68717709" width="100%" alt="Banner" />
-
 </div>
 
 <br/>
-
-
-
 
 <h1 align="center">Hi, I'm Shifat 👋</h1>
 <p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
@@ -16,17 +12,15 @@
 
 <img align="right" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
 
+<ul>
+  <li>🔭 I’m currently working on <strong>Learning full-stack development by creating real-world projects</strong></li>
+  <li>🌱 I’m currently learning <strong>Full-Stack development in Programming-Hero platform</strong></li>
+  <li>💬 Ask me about <strong>Tech & Coding problems</strong></li>
+  <li>📫 How to reach me <strong>hossainshifat222@gmail.com</strong></li>
+  <li>⚡ Fun fact <strong>I am a curious, dedicated, creative, and adaptable learner with passion.</strong></li>
+</ul>
 
-- 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
-
-- 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
-
-- 💬 Ask me about **Tech & Coding problems**
-
-- 📫 How to reach me **hossainshifat222@gmail.com**
-
-- ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.** 
-
+<div style="clear: both;"></div>
 
 ---
 
@@ -39,22 +33,17 @@
   <img align="left" alt="Tech Stack Animation" src="https://media3.giphy.com/media/tuqH936wSKUPChxr6m/giphy.gif" width="350">
 </picture>
 
-
-  <div>
-    <h3>Current Learning</h3>
-    <ul>
-        <li>Deepening my skills in modern Web Development with Programming-Hero.</li>
-        <li>Mastering state management solutions such as Redux and Context API.</li>
-    </ul>
-  </div>
+<div>
+  <h3>Current Learning</h3>
+  <ul>
+    <li>Deepening my skills in modern Web Development with Programming-Hero.</li>
+    <li>Mastering state management solutions such as Redux and Context API.</li>
+  </ul>
 </div>
 
-
-<br/><br/><br/><br/><br/><br/><br/>
-
+<div style="clear: both;"></div>
 
 ---
-
 
 ### 📫 Connect With ME
 
@@ -79,6 +68,7 @@
   </table>
 </div>
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -96,10 +86,7 @@
 
 ### 📊 Current Stats
 
-
 <!-- GitHub Stats and Streak Section -->
-<br/>
-
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
@@ -119,26 +106,18 @@
 
 ---
 
-<!--
-  Top Language caed
--->
-
+<!-- Top Language Card -->
 <div>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
   <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
-<br/>
-
-<!--
-  Top Language card end
--->
+<div style="clear: both;"></div>
 
 ---
 
-<!--Profile Summary-->
-
+<!-- Profile Summary -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
@@ -147,27 +126,15 @@
   />
 </p>
 
-
-<!--Profile Summary end-->
-
 ---
 
 ### ⚡Activity Graph
-
-<!--Graph Start-->
-
-
-<!-- GitHub Contribution Graph -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-<!--Graph End-->
-
-<!--Trophy Count Start-->
-
-
+<!-- Trophy Count Start -->
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=react-dark&no-bg=true&margin-w=15&margin-h=15" 
@@ -176,9 +143,7 @@
   />
 </p>
 
-
-<!--Trophy Count End-->
-
+---
 
 ### 🧠 About Me
 
@@ -190,6 +155,4 @@
   <strong>💻 Let's build something amazing — one line at a time 🚀</strong>
 </div>
 
-
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
