@@ -31,7 +31,7 @@
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">💡 Exploring Tools & Technologies</h2> 
+<h2 align="center">💡 Exploring Tools & Technologies</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/tuqH936wSKUPChxr6m/giphy.gif">
@@ -45,7 +45,6 @@
     <ul>
         <li>Deepening my skills in modern Web Development with Programming-Hero.</li>
         <li>Mastering state management solutions such as Redux and Context API.</li>
-        <li></li>
     </ul>
   </div>
 </div>
@@ -164,10 +163,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-
-
 <!--Graph End-->
 
+<!--Trophy Count Start-->
+
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=react-dark&no-bg=true&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+    style="width: 100%; max-width: 1000px;" 
+  />
+</p>
+
+
+<!--Trophy Count End-->
 
 
 ### 🧠 About Me
