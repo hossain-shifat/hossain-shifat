@@ -12,15 +12,11 @@
 
 <img align="right" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
 
-<ul>
-  <li>🔭 I’m currently working on <strong>Learning full-stack development by creating real-world projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Full-Stack development in Programming-Hero platform</strong></li>
-  <li>💬 Ask me about <strong>Tech & Coding problems</strong></li>
-  <li>📫 How to reach me <strong>hossainshifat222@gmail.com</strong></li>
-  <li>⚡ Fun fact <strong>I am a curious, dedicated, creative, and adaptable learner with passion.</strong></li>
-</ul>
-
-<div style="clear: both;"></div>
+- 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
+- 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
+- 🗬️ Ask me about **Tech & Coding problems**
+- 📢 How to reach me **hossainshifat222@gmail.com**
+- ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
 
 ---
 
@@ -40,12 +36,13 @@
     <li>Mastering state management solutions such as Redux and Context API.</li>
   </ul>
 </div>
+</div>
 
-<div style="clear: both;"></div>
+<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
-### 📫 Connect With ME
+### 📢 Connect With ME
 
 <div align="center">
   <table style="border: none; font-size: 16px;">
@@ -68,8 +65,6 @@
   </table>
 </div>
 
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -87,6 +82,8 @@
 ### 📊 Current Stats
 
 <!-- GitHub Stats and Streak Section -->
+<br/>
+
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
@@ -113,11 +110,13 @@
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
-<div style="clear: both;"></div>
+<br/>
+
+<!-- Top Language card end -->
 
 ---
 
-<!-- Profile Summary -->
+<!--Profile Summary-->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
@@ -126,15 +125,19 @@
   />
 </p>
 
+<!--Profile Summary end-->
+
 ---
 
 ### ⚡Activity Graph
 
+<!--Graph Start-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
+<!--Graph End-->
 
-<!-- Trophy Count Start -->
+<!--Trophy Count Start-->
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=react-dark&no-bg=true&margin-w=15&margin-h=15" 
@@ -142,8 +145,7 @@
     style="width: 100%; max-width: 1000px;" 
   />
 </p>
-
----
+<!--Trophy Count End-->
 
 ### 🧠 About Me
 
@@ -155,4 +157,5 @@
   <strong>💻 Let's build something amazing — one line at a time 🚀</strong>
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
