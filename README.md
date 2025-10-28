@@ -1,6 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <div align="center">
-  <img src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/516747281_122214473882123697_8617946742492310951_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE314Q5DRn7wCcoTXfUxNWkINsYuqmLf3Ug2xi6qYt_dZfqKGjwm2xrrR-qXtpsl2ShpcjXzCJrZLyxfnuwXWvk&_nc_ohc=AHeCg0cp-yoQ7kNvwH_3YIc&_nc_oc=AdmPVHBUFzC8qK8Yh1cu6KLQ2dPFpxNEXFZpEVHqx5gpjZ308wYXp_eMTpdVNKWlbKw&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=HCqlDJNf9qVr9MIgDNJJ_g&oh=00_AfRAk6M_BxbZYYx8uWIyPwrrIwiIlmxshpGtv56PeHBmqA&oe=68717709" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co.com/dsjdyq9M/banner.jpg" width="100%" alt="Banner" />
 </div>
 
 <br/>
