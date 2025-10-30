@@ -19,7 +19,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
   <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
-  <img align="right" style='margin-bottom:10px;' alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
+  <img align="right" style='margin-bottom:20px;' alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
 </picture>
 
 <div>
