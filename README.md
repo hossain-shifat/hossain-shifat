@@ -61,7 +61,7 @@
 
 </div>
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -75,7 +75,7 @@
 
 ---
 
-### 📊 Current Stats
+<h2 align="center">📊 Current Stats</h2>
 
 <br/>
 
@@ -114,7 +114,7 @@
 
 ---
 
-### ⚡Activity Graph
+<h2 align="center"> ⚡ Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
@@ -122,7 +122,7 @@
 
 ---
 
-### 🏆 Trophy
+<h2 align="center">🏆 Trophy</h2>
 
 <p align="center">
   <img
@@ -134,7 +134,7 @@
 
 ---
 
-### 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 > I’m a curious, hardworking, and creative developer who loves building real-world projects, learning new tools, and turning ideas into clean, functional code.
 
