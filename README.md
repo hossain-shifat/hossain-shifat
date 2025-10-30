@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false}
 
 <!-- code_chunk_output -->
@@ -13,8 +10,6 @@
 
 <!-- /code_chunk_output -->
 
-
->>>>>>> 6414a77 (update readme)
 <!-- 🖼️ Profile Banner -->
 <div align="center">
   <img src="https://i.ibb.co.com/dsjdyq9M/banner.jpg" width="100%" alt="Banner" />
@@ -37,11 +32,7 @@
 
 ---
 
-<<<<<<< HEAD
-<!--Languages and Tools Section-->       
-=======
 <!--Languages and Tools Section-->
->>>>>>> 6414a77 (update readme)
 <h2 align="center">💡 Exploring Tools & Technologies</h2>
 
 <picture>
@@ -56,7 +47,6 @@
     <li>Deepening my skills in modern Web Development with Programming-Hero.</li>
     <li>Mastering state management solutions such as Redux and Context API.</li>
   </ul>
-</div>
 </div>
 
 <br/><br/><br/><br/><br/><br/><br/>
@@ -102,22 +92,12 @@
 
 ### 📊 Current Stats
 
-<!-- GitHub Stats and Streak Section -->
 <br/>
 
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
       <td>
-<<<<<<< HEAD
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb" 
-          height="180" />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb" 
-=======
         <img
           src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"
           height="180" />
@@ -125,7 +105,6 @@
       <td>
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb"
->>>>>>> 6414a77 (update readme)
           height="180" />
       </td>
     </tr>
@@ -134,7 +113,6 @@
 
 ---
 
-<!-- Top Language Card -->
 <div>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
   <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
@@ -143,54 +121,31 @@
 
 <br/>
 
-<!-- Top Language card end -->
-
----
-
-<!--Profile Summary-->
 <p align="center">
-<<<<<<< HEAD
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true" 
-    alt="GitHub Summary Card"
-    style="width: 100%; max-width: 600px;" 
-=======
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true"
     alt="GitHub Summary Card"
     style="width: 100%; max-width: 600px;"
->>>>>>> 6414a77 (update readme)
   />
 </p>
-
-<!--Profile Summary end-->
 
 ---
 
 ### ⚡Activity Graph
 
-<!--Graph Start-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
-<!--Graph End-->
 
-<!--Trophy Count Start-->
 <p align="center">
-<<<<<<< HEAD
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=react-dark&no-bg=true&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies" 
-    style="width: 100%; max-width: 1000px;" 
-=======
   <img
     src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=react-dark&no-bg=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     style="width: 100%; max-width: 1000px;"
->>>>>>> 6414a77 (update readme)
   />
 </p>
-<!--Trophy Count End-->
+
+---
 
 ### 🧠 About Me
 
@@ -202,8 +157,4 @@
   <strong>💻 Let's build something amazing — one line at a time 🚀</strong>
 </div>
 
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<<<<<<< HEAD
-
-=======
->>>>>>> 6414a77 (update readme)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
