@@ -10,13 +10,19 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
-  <img align="right" alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
-</picture>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
 
-<div>
+
+  <!-- Image Section -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+    <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+    <img src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" width="260" alt="Coding Animation" style="border-radius: 10px; margin: auto;">
+  </picture>
+
+
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 250px;">
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
@@ -24,7 +30,11 @@
 - 📢 How to reach me **hossainshifat222@gmail.com**
 - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
 
+  </div>
+
+
 </div>
+
 ---
 
 <!--Languages and Tools Section-->
