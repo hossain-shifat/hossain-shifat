@@ -116,8 +116,8 @@
 <br/>
 
 <div>
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="50%" />
-  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="50%" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="45%" />
+  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="45%" />
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
