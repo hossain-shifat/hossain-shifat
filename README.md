@@ -1,16 +1,3 @@
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 Current Stats](#-current-stats)
-- [⚡Activity Graph](#activity-graph)
-- [🏆 Trophy](#-trophy)
-- [🧠 About Me](#-about-me)
-
-<!-- /code_chunk_output -->
-
-
 <!-- 🖼️ Profile Banner -->
 <div align="center">
   <img src="https://i.ibb.co.com/dsjdyq9M/banner.jpg" width="100%" alt="Banner" />
@@ -24,6 +11,8 @@
 ---
 
 <img align="right" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+
+<br/>
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
