@@ -106,14 +106,6 @@
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
-<!-- <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true"
-    alt="GitHub Summary Card"
-    style="width: 100%; max-width: 600px;"
-  />
-</p> -->
-
 ---
 
 <h2 align="center"> ⚡ Activity Graph</h2>
