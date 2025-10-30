@@ -10,9 +10,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+  <img align="right" alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
+</picture>
+
+<div>
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
@@ -20,13 +24,7 @@
 - 📢 How to reach me **hossainshifat222@gmail.com**
 - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
 
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" width="250" alt="Coding">
-    </td>
-  </tr>
-</table>
-
+</div>
 ---
 
 <!--Languages and Tools Section-->
