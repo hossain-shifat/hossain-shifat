@@ -86,10 +86,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-
-
----
-
 <h2 align="center">📊 Current Stats</h2>
 
 <br/>
@@ -111,15 +107,15 @@
   </table>
 </div>
 
----
+<br/>
 
 <div>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="40%" />
   <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="40%" />
-  <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
+  <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="100" style="visibility: hidden;" />
 </div>
 
-<br/>
+---
 
 <h2 align="center">🏆 Trophy</h2>
 
