@@ -1,14 +1,15 @@
-@import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false}
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
-- [📢 Connect With ME](#-connect-with-me)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📊 Current Stats](#-current-stats)
 - [⚡Activity Graph](#activity-graph)
+- [🏆 Trophy](#-trophy)
 - [🧠 About Me](#-about-me)
 
 <!-- /code_chunk_output -->
+
 
 <!-- 🖼️ Profile Banner -->
 <div align="center">
@@ -53,27 +54,14 @@
 
 ---
 
-### 📢 Connect With ME
 
 <div align="center">
-  <table style="border: none; font-size: 16px;">
-    <tr>
-      <td><strong>Email:</strong></td>
-      <td><a href="mailto:hossainshifat222@gmail.com">hossainshifat222@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td><strong>Facebook:</strong></td>
-      <td><a href="https://facebook.com/hossainshifat.info">facebook.com/hossainshifat.info</a></td>
-    </tr>
-    <tr>
-      <td><strong>Instagram:</strong></td>
-      <td><a href="https://instagram.com/hossainshifat.info">instagram.com/hossainshifat.info</a></td>
-    </tr>
-    <tr>
-      <td><strong>X (Twitter):</strong></td>
-      <td><a href="https://x.com/hossainshifat0">x.com/hossainshifat0</a></td>
-    </tr>
-  </table>
+
+[📧 Email](mailto:hossainshifat222@gmail.com) &nbsp;|&nbsp;
+[🌐 Facebook](https://facebook.com/hossainshifat.info) &nbsp;|&nbsp;
+[📸 Instagram](https://instagram.com/hossainshifat.info) &nbsp;|&nbsp;
+[🐦 X (Twitter)](https://x.com/hossainshifat0)
+
 </div>
 
 ### 🛠️ Tech Stack
@@ -102,11 +90,11 @@
           src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"
           height="180" />
       </td>
-      <td>
+      <!-- <td>
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb"
           height="180" />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -119,15 +107,13 @@
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
-<br/>
-
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-shifat&theme=github_dark&border=0&hide_border=true&refine=true"
     alt="GitHub Summary Card"
     style="width: 100%; max-width: 600px;"
   />
-</p>
+</p> -->
 
 ---
 
@@ -136,6 +122,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
 </p>
+
+---
+
+### 🏆 Trophy
 
 <p align="center">
   <img
