@@ -5,7 +5,8 @@
 
 <br/>
 
-<h1 align="center">Hi, I'm Shifat 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=345BAA&center=true&vCenter=true&width=435&lines=HI!+There+%F0%9F%91%8B;This+is+Hossain-Shifat...)](https://git.io/typing-svg)
+
 <p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
 
 ---
