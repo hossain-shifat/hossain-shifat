@@ -75,6 +75,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
+
+---
+
+<h2 align="center"> ⚡ Activity Graph</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+
+
 ---
 
 <h2 align="center">📊 Current Stats</h2>
@@ -106,17 +119,7 @@
   <img src="https://via.placeholder.com/1x200/0d1117/0d1117?text=" width="1" height="200" style="visibility: hidden;" />
 </div>
 
----
-
-<h2 align="center"> ⚡ Activity Graph</h2>
-
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossain-shifat&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
 
 <h2 align="center">🏆 Trophy</h2>
 
