@@ -10,13 +10,22 @@
 
 ---
 
-<img align="center" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
 - 🗬️ Ask me about **Tech & Coding problems**
 - 📢 How to reach me **hossainshifat222@gmail.com**
 - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
+
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" width="250" alt="Coding">
+    </td>
+  </tr>
+</table>
 
 ---
 
