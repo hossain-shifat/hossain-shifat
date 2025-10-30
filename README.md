@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
+<img align="center" alt="Coding" width="250" style="background:#0d1117;" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
 - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
