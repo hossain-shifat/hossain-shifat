@@ -115,7 +115,7 @@
 
 <br/>
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; gap: 30px; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="45%" style="min-width: 250px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="45%" style="min-width: 250px;" />
 </div>
@@ -124,9 +124,6 @@
 <br clear="both" />
 
 ---
-
-<br/>
-
 <h2 align="center">🏆 Trophy</h2>
 
 <br/>
