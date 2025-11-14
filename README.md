@@ -116,7 +116,7 @@
 
 <div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center; background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=false&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb" width="45%" style="min-width: 250px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=false&card_height=208&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb" width="45%" style="min-width: 250px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=false&card_height=207&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb" width="45%" style="min-width: 250px;" />
 </div>
 
 <br/>
