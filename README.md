@@ -22,7 +22,6 @@
   <img align="center" alt="Coding Animation" width="260"src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
 </picture>
 
-
 <div>
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
