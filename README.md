@@ -96,7 +96,7 @@
 
 <br/>
 
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+<!-- <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <table>
     <tr>
       <td>
@@ -112,6 +112,11 @@
       </td>
     </tr>
   </table>
+</div> -->
+
+<div align="center" style="display: flex; gap: 30px; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb" width="45%" style="min-width: 250px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb" width="45%" style="min-width: 250px;" />
 </div>
 
 <br/>
