@@ -23,7 +23,7 @@
 </picture>
 
 
-<p align="left">
+<p align="right">
 
 🔭 I’m currently working on **Learning full-stack development by creating real-world projects** <br>
 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform** <br>
