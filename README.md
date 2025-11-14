@@ -98,26 +98,7 @@
 
 <br/>
 
-<!-- <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <table cellpadding="15">
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"
-          height="180" />
-      </td>
-      [[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossain-shifat&theme=react)](https://git.io/streak-stats)
-      <td>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb"
-          height="180" />
-      </td>
-    </tr>
-  </table>
-</div> -->
-
 <!-- current stats -->
-
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=hossain-shifat&theme=react&hide_border=false" alt="GitHub Streak Stats" />
@@ -127,10 +108,17 @@
 
 <!-- profile cards -->
 
-<div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center;">
+<!-- <div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="45%" style="min-width: 250px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="45%" style="min-width: 250px;" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="350px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="350px"/>
 </div>
+
+
 
 <!-- Fix layout by clearing floats -->
 <br clear="both" />
