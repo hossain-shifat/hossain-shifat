@@ -15,7 +15,7 @@
 <p align="center"><strong>A passionate web developer learning at Programming Hero</strong></p>
 
 ---
-
+<div style="display:flex;">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
@@ -32,7 +32,7 @@
 ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.** <br>
 
 </p>
-
+</div>
 
 ---
 
