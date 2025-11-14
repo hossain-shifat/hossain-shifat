@@ -1,7 +1,7 @@
 <!-- 🖼️ Profile Banner -->
-<div align="center">
-  <img src="https://i.ibb.co.com/jNk5QGz/banner.jpg" width="100%" alt="Banner" />
-</div>
+
+<img align="center" src="https://i.ibb.co.com/jNk5QGz/banner.jpg" width="100%" alt="Banner" />
+
 
 <br/>
 
