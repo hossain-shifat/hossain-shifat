@@ -104,7 +104,7 @@
           src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"
           height="180" />
       </td>
-      <!-- [[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossain-shifat&theme=react)](https://git.io/streak-stats) -->
+      [[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossain-shifat&theme=react)](https://git.io/streak-stats)
       <td>
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb"
