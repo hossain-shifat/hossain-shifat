@@ -17,10 +17,11 @@
 ---
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp"> -->
-  <img align="right" alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
+  <img align="right" alt="Coding Animation" width="260"src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif" style="margin-left: 20px; border-radius: 8px;">
 </picture>
+
 
 <div>
 
