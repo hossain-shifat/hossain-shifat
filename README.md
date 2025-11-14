@@ -16,10 +16,10 @@
 
 ---
 
-<picture>
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
-  <img align="left" alt="Coding Animation" width="260"src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
+  <img alt="Coding Animation" width="260"src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
 </picture>
 
 
