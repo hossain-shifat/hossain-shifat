@@ -16,7 +16,7 @@
 
 ---
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
   <img align="right" alt="Coding Animation" width="260"src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif" style="margin-left: 20px; border-radius: 8px;">
@@ -31,7 +31,34 @@
 - 📢 How to reach me **hossainshifat222@gmail.com**
 - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
 
-</div>
+</div> -->
+
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif">
+        <img alt="Coding Animation" width="260"
+            src="https://i.giphy.com/media/9XHOlBFLtlY69AtwOi/giphy.gif"
+            style="border-radius: 8px;" />
+      </picture>
+    </td>
+
+    <td>
+      <div>
+
+      - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
+      - 🌱 I’m currently learning **Full-Stack development in Programming-Hero platform**
+      - 🗬️ Ask me about **Tech & Coding problems**
+      - 📢 How to reach me **hossainshifat222@gmail.com**
+      - ⚡ Fun fact **I am a curious, dedicated, creative, and adaptable learner with passion.**
+
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <br clear="both"/>
 
