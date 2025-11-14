@@ -22,8 +22,6 @@
   <img align="right" alt="Coding Animation" width="260" src="https://media2.giphy.com/media/9XHOlBFLtlY69AtwOi/200.webp" style="margin-left: 20px; border-radius: 8px;">
 </picture>
 
-<br/>
-
 <div>
 
 - 🔭 I’m currently working on **Learning full-stack development by creating real-world projects**
@@ -106,6 +104,7 @@
           src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb"
           height="180" />
       </td>
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossain-shifat&theme=react)](https://git.io/streak-stats)
       <!-- <td>
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&hide_border=true&background=0D1117&currStreakLabel=61dafb&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&fire=61dafb&ring=61dafb"
