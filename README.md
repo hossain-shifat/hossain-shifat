@@ -1,6 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <div align="center">
-  <img src="https://i.ibb.co.com/dsjdyq9M/banner.jpg" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co.com/jNk5QGz/banner.jpg" width="100%" alt="Banner" />
 </div>
 
 <br/>
