@@ -123,7 +123,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -157,12 +157,9 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain-shifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div> -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight"/>
-
+</div>
 
 ---
 
