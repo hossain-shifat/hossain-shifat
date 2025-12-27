@@ -94,9 +94,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="49%" src="https://githubcard.com/hossain-shifat.svg?d=Q-xU9HBB" alt="GitHub Card Stats"/>
-</div>
 
 <br/>
 
