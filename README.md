@@ -87,10 +87,19 @@
 <br/>
 
 <!-- current stats -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+<div align="center" style="display:flex; gap:10px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+    style="width:49%; height:200px;"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    style="width:49%; height:200px;"
+  />
 </div>
+
 
 <br/>
 
