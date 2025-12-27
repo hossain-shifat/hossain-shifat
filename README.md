@@ -88,7 +88,7 @@
 
 <!-- current stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/> -->
   <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
