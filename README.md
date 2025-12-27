@@ -113,10 +113,9 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p> -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=radical&no-frame=true)
+</p>
 
 ---
 
