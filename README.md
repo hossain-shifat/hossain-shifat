@@ -56,15 +56,6 @@
 
 ---
 
-<div align="center">
-
-[📧 Email](mailto:hossainshifat222@gmail.com) &nbsp;|&nbsp;
-[🌐 Facebook](https://facebook.com/hossainshifat.info) &nbsp;|&nbsp;
-[📸 Instagram](https://instagram.com/hossainshifat.info) &nbsp;|&nbsp;
-[🐦 X (Twitter)](https://x.com/hossainshifat0)
-
-</div>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <br/>
@@ -97,8 +88,8 @@
 
 <!-- current stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=react&rank_icon=default&border_radius=8&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossain-shifat&theme=react&hide_border=true&border_radius=8" alt="GitHub Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
@@ -106,8 +97,8 @@
 <!-- profile cards -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=github_dark" width="400px" height="200px" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=github_dark" width="400px" height="200px" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Most Commit Language"/>
 </div>
 
 <!-- Fix layout by clearing floats -->
@@ -115,15 +106,12 @@
 
 ---
 
-<h2 align="center">🏆 Trophy</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <br/>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -133,6 +121,33 @@
 <br/>
 
 > I'm a student and aspiring developer who learns by building. I'm passionate about understanding how software works—from design to deployment—and I continuously challenge myself with new projects, tools, and technologies. When I'm not coding, you'll find me exploring productivity workflows, taking photos, or diving into tech documentation.
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:hossainshifat222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://facebook.com/hossainshifat.info">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/hossainshifat.info">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/hossainshifat0">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hossain-shifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
