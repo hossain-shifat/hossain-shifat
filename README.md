@@ -103,8 +103,8 @@
 <!-- profile cards -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossain-shifat&theme=tokyonight" width="400px" height="200px" alt="Most Commit Language"/>
 </div>
 
 <!-- Fix layout by clearing floats -->
