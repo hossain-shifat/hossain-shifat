@@ -87,23 +87,18 @@
 <br/>
 
 <!-- current stats -->
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-        width="420"
-      />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true"
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="display:flex; gap:10px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+    style="width:49%; height:200px;"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+    style="width:49%; height:200px;"
+  />
+</div>
 
 
 <br/>
@@ -162,9 +157,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain-shifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight"/>
+
 
 ---
 
