@@ -145,9 +145,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain-shifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
 
 ---
 
