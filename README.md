@@ -87,7 +87,7 @@
 <br/>
 
 <!-- current stats -->
-<div align="center" style="display:flex; gap:10px;">
+<!-- <div align="center" style="display:flex; gap:10px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="GitHub Stats"
@@ -98,8 +98,9 @@
     alt="GitHub Streak Stats"
     style="width:49%; height:200px;"
   />
-</div>
+</div> -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=radical)
 
 <br/>
 
