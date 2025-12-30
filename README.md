@@ -88,7 +88,7 @@
 
 <!-- current stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossain-shifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
 
