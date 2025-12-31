@@ -144,11 +144,8 @@
   <a href="mailto:hossainshifat222@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://facebook.com/hossainshifat.info">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/hossainshifat.info">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/hossainshifat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/hossainshifat0">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -157,9 +154,16 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
+  <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
+  <p><strong>📞 Contact:</strong> +880 1234567890</p>
+</div> -->
+
+<br/>
+
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain-shifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</div> -->
 
 ---
 
