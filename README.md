@@ -1,3 +1,31 @@
+
+<style>
+  .stats-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .stats-container img {
+    width: 48%;
+    max-width: 400px;
+    height: auto;
+  }
+
+  @media (max-width: 600px) {
+    .stats-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    .stats-container img {
+      width: 100%;
+    }
+  }
+</style>
+
 <!-- 🖼️ Profile Banner -->
 
 <img align="center" src="https://i.ibb.co/jNk5QGz/banner.jpg" width="100%" alt="Banner" />
@@ -87,11 +115,11 @@
 <br/>
 
 <!-- current stats -->
-<div align="center">
+<div align="center" class="stats-container">
   <img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="400px" height="200px" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="200px" alt="GitHub Streak Stats"/>
-  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/> -->
 </div>
+  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/> -->
 
 <br/>
 
