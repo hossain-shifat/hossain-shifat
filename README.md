@@ -87,10 +87,16 @@
 <br/>
 
 <!-- current stats -->
-<div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center;" >
+<!-- <div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center;" >
   <img width="49%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="450px" height="200px" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="450px" height="210px" alt="GitHub Streak Stats"/>
+</div> -->
+
+<div align="center" style="display: flex; gap: 30px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img style="flex: 1; min-width: 300px; max-width: 49%;" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img style="flex: 1; min-width: 300px; max-width: 49%;" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </div>
+
   <!-- <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/> -->
 
 <br/>
