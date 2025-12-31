@@ -118,7 +118,7 @@
 <br/>
 
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=hossain-shifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/> -->
-<div align="center">
+<div align="center" style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hossain-shifat&no-bg=true&column=11&margin-w=15&margin-h=15&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hossain-shifat&no-bg=true&column=11&margin-w=15&margin-h=15">
