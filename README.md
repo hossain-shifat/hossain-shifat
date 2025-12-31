@@ -93,8 +93,8 @@
 </div> -->
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" style="width: 400px; height: 0px; max-width: 100%; object-fit: contain;" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=hossain-shifat&count_private=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" style="width: 400px; height: 200px; max-width: 100%; object-fit: contain;" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hossain-shifat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" style="width: 400px; height: 200px; max-width: 100%; object-fit: cover;" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=hossain-shifat&count_private=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" style="width: 400px; height: 200px; max-width: 100%; object-fit: cover;" alt="GitHub Streak Stats"/>
 </div>
 
   <!-- <img width="49%" src="https://streak-stats.demolab.com?user=hossain-shifat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/> -->
@@ -162,4 +162,4 @@
   <strong>💻 Let's build something amazing — one line at a time 🚀</strong>
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header"/>
+<img src="https://raw.githubusercontent.com/hossain-shifat/hossain-shifat/main/bottom-svg.svg" alt="Bottom Header"/>
